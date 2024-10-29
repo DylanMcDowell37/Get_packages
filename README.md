@@ -1,7 +1,3 @@
-Here’s a structured README file for your Go script that downloads the latest versions of applications and keeps track of previously downloaded versions using ManageEngine. This README covers essential aspects, including an overview, installation, usage, and examples.
-
----
-
 # Application Version Tracker
 
 ## Overview
